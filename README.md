@@ -1,6 +1,5 @@
 # HTML-CSS
-# 🌐 Repositório: web-projects-html-css
-#
+
 # 🇵🇹 Descrição
 # Projetos de prática em HTML e CSS, focados em desenvolvimento web,
 # layouts responsivos e interfaces modernas. Inclui exercícios de estrutura
